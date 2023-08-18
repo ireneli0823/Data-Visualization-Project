@@ -1,2 +1,2 @@
 # Data-Visualization-Project
-![Here is the screenshot for this project](/Tableau_Visualzation_screenshot.jpeg)
+![Here is the screenshot for this project](./Tableau_Visualization_screenshot.jpeg)
